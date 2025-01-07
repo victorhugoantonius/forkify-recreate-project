@@ -1,4 +1,4 @@
-import Fraction from "fractional";
+import Fracty from "fracty";
 import View from "./View.js";
 class RecipeView extends View {
   _parentElement = document.querySelector(".recipe-container");
@@ -126,7 +126,7 @@ class RecipeView extends View {
             <div class="recipe-ingredients-list">
             ${this._data.ingredients
               .map((item) => {
-                return `<p class="each-recipe-ingredient"><span>✔</span> ${!item.quantity ? "" : new Fraction(item.quantity)} ${item.description}</p>`;
+                return `<p class="each-recipe-ingredient"><span>✔</span> ${!item.quantity ? "" : new Fracty(item.quantity)} ${item.description}</p>`;
               })
               .join("")}
             </div>
