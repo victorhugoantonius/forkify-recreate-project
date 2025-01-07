@@ -1,0 +1,74 @@
+{
+  "id": "js/config.js",
+  "dependencies": [
+    {
+      "name": "C:\\Front End Journey\\forkify recreate projects\\package.json",
+      "includedInParent": true,
+      "mtime": 1734971507822
+    }
+  ],
+  "generated": {
+    "js": "\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.API_URL = void 0;\nvar API_URL = exports.API_URL = \"https://forkify-api.herokuapp.com/api/v2/recipes\";"
+  },
+  "sourceMaps": {
+    "js": {
+      "mappings": [
+        {
+          "generated": { "line": 7, "column": 0 },
+          "source": "js/config.js",
+          "original": { "line": 1, "column": 7 }
+        },
+        {
+          "generated": { "line": 7, "column": 4 },
+          "source": "js/config.js",
+          "original": { "line": 1, "column": 13 },
+          "name": "API_URL"
+        },
+        {
+          "generated": { "line": 7, "column": 11 },
+          "source": "js/config.js",
+          "original": { "line": 1, "column": 20 }
+        },
+        {
+          "generated": { "line": 7, "column": 14 },
+          "source": "js/config.js",
+          "original": { "line": 1, "column": 20 },
+          "name": "exports"
+        },
+        {
+          "generated": { "line": 7, "column": 21 },
+          "source": "js/config.js",
+          "original": { "line": 1, "column": 20 }
+        },
+        {
+          "generated": { "line": 7, "column": 22 },
+          "source": "js/config.js",
+          "original": { "line": 1, "column": 20 },
+          "name": "API_URL"
+        },
+        {
+          "generated": { "line": 7, "column": 29 },
+          "source": "js/config.js",
+          "original": { "line": 1, "column": 20 }
+        },
+        {
+          "generated": { "line": 7, "column": 32 },
+          "source": "js/config.js",
+          "original": { "line": 1, "column": 23 }
+        },
+        {
+          "generated": { "line": 7, "column": 82 },
+          "source": "js/config.js",
+          "original": { "line": 1, "column": 73 }
+        }
+      ],
+      "sources": {
+        "js/config.js": "export const API_URL = \"https://forkify-api.herokuapp.com/api/v2/recipes\";\r\n"
+      },
+      "lineCount": null
+    }
+  },
+  "error": null,
+  "hash": "340dbcbcd5689af65e9c85260e112729",
+  "cacheData": { "env": {} }
+}

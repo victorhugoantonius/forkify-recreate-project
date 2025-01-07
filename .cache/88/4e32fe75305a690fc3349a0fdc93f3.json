@@ -1,0 +1,22 @@
+{
+  "id": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf",
+  "dependencies": [
+    {
+      "name": "C:\\Front End Journey\\forkify recreate projects\\package.json",
+      "includedInParent": true,
+      "mtime": 1734971507822
+    },
+    {
+      "name": "C:\\Front End Journey\\forkify recreate projects\\node_modules\\@fortawesome\\fontawesome-free\\package.json",
+      "includedInParent": true,
+      "mtime": 1734747706935
+    }
+  ],
+  "generated": {
+    "js": "module.exports = \"/12fba5dac7657dac92fe88f2cde05ce7.ttf\";"
+  },
+  "sourceMaps": null,
+  "error": null,
+  "hash": "262525e2081311609d1fdab966c82bfc",
+  "cacheData": { "env": {} }
+}

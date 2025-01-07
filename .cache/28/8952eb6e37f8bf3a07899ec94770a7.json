@@ -1,0 +1,160 @@
+{
+  "id": "controller.js",
+  "dependencies": [
+    {
+      "name": "C:\\Front End Journey\\forkify recreate projects\\package.json",
+      "includedInParent": true,
+      "mtime": 1734780102360
+    },
+    {
+      "name": "@fortawesome/fontawesome-free/css/all.css",
+      "loc": { "line": 1, "column": 7, "index": 7 },
+      "parent": "C:\\Front End Journey\\forkify recreate projects\\controller.js",
+      "resolved": "C:\\Front End Journey\\forkify recreate projects\\node_modules\\@fortawesome\\fontawesome-free\\css\\all.css"
+    }
+  ],
+  "generated": {
+    "js": "\"use strict\";\n\nrequire(\"@fortawesome/fontawesome-free/css/all.css\");\nif (module.hot) {\n  module.hot.accept();\n}\nconsole.log(\"test\");"
+  },
+  "sourceMaps": {
+    "js": {
+      "mappings": [
+        {
+          "generated": { "line": 3, "column": 0 },
+          "source": "controller.js",
+          "original": { "line": 1, "column": 0 },
+          "name": "require"
+        },
+        {
+          "generated": { "line": 3, "column": 7 },
+          "source": "controller.js",
+          "original": { "line": 1, "column": 0 }
+        },
+        {
+          "generated": { "line": 4, "column": 0 },
+          "source": "controller.js",
+          "original": { "line": 3, "column": 0 }
+        },
+        {
+          "generated": { "line": 4, "column": 4 },
+          "source": "controller.js",
+          "original": { "line": 3, "column": 4 },
+          "name": "module"
+        },
+        {
+          "generated": { "line": 4, "column": 10 },
+          "source": "controller.js",
+          "original": { "line": 3, "column": 10 }
+        },
+        {
+          "generated": { "line": 4, "column": 11 },
+          "source": "controller.js",
+          "original": { "line": 3, "column": 11 },
+          "name": "hot"
+        },
+        {
+          "generated": { "line": 4, "column": 14 },
+          "source": "controller.js",
+          "original": { "line": 3, "column": 14 }
+        },
+        {
+          "generated": { "line": 4, "column": 16 },
+          "source": "controller.js",
+          "original": { "line": 3, "column": 16 }
+        },
+        {
+          "generated": { "line": 5, "column": 2 },
+          "source": "controller.js",
+          "original": { "line": 4, "column": 2 },
+          "name": "module"
+        },
+        {
+          "generated": { "line": 5, "column": 8 },
+          "source": "controller.js",
+          "original": { "line": 4, "column": 8 }
+        },
+        {
+          "generated": { "line": 5, "column": 9 },
+          "source": "controller.js",
+          "original": { "line": 4, "column": 9 },
+          "name": "hot"
+        },
+        {
+          "generated": { "line": 5, "column": 12 },
+          "source": "controller.js",
+          "original": { "line": 4, "column": 12 }
+        },
+        {
+          "generated": { "line": 5, "column": 13 },
+          "source": "controller.js",
+          "original": { "line": 4, "column": 13 },
+          "name": "accept"
+        },
+        {
+          "generated": { "line": 5, "column": 19 },
+          "source": "controller.js",
+          "original": { "line": 4, "column": 19 }
+        },
+        {
+          "generated": { "line": 5, "column": 20 },
+          "source": "controller.js",
+          "original": { "line": 4, "column": 20 }
+        },
+        {
+          "generated": { "line": 5, "column": 21 },
+          "source": "controller.js",
+          "original": { "line": 4, "column": 21 }
+        },
+        {
+          "generated": { "line": 6, "column": 0 },
+          "source": "controller.js",
+          "original": { "line": 5, "column": 0 }
+        },
+        {
+          "generated": { "line": 7, "column": 0 },
+          "source": "controller.js",
+          "original": { "line": 6, "column": 0 },
+          "name": "console"
+        },
+        {
+          "generated": { "line": 7, "column": 7 },
+          "source": "controller.js",
+          "original": { "line": 6, "column": 7 }
+        },
+        {
+          "generated": { "line": 7, "column": 8 },
+          "source": "controller.js",
+          "original": { "line": 6, "column": 8 },
+          "name": "log"
+        },
+        {
+          "generated": { "line": 7, "column": 11 },
+          "source": "controller.js",
+          "original": { "line": 6, "column": 11 }
+        },
+        {
+          "generated": { "line": 7, "column": 12 },
+          "source": "controller.js",
+          "original": { "line": 6, "column": 12 }
+        },
+        {
+          "generated": { "line": 7, "column": 18 },
+          "source": "controller.js",
+          "original": { "line": 6, "column": 18 }
+        },
+        {
+          "generated": { "line": 7, "column": 19 },
+          "source": "controller.js",
+          "original": { "line": 6, "column": 19 }
+        }
+      ],
+      "sources": {
+        "controller.js": "import \"@fortawesome/fontawesome-free/css/all.css\";\r\n\r\nif (module.hot) {\r\n  module.hot.accept();\r\n}\r\nconsole.log(\"test\");\r\n"
+      },
+      "lineCount": null
+    }
+  },
+  "error": null,
+  "hash": "04d18224cd2e6a773888e6b76cb27f68",
+  "cacheData": { "env": {} }
+}

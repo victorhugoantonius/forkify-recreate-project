@@ -1,0 +1,17 @@
+{
+  "id": "src/img/rec1.jpg",
+  "dependencies": [
+    {
+      "name": "C:\\Front End Journey\\forkify recreate projects\\package.json",
+      "includedInParent": true,
+      "mtime": 1734971507822
+    }
+  ],
+  "generated": {
+    "js": "module.exports = \"/0472f719b9014b4fbf95f89761fa7d6d.jpg\";"
+  },
+  "sourceMaps": null,
+  "error": null,
+  "hash": "3bd7a3fcb8994d1e15e16d17183d96e6",
+  "cacheData": { "env": {} }
+}

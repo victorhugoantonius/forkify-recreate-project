@@ -1,0 +1,22 @@
+{
+  "id": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf",
+  "dependencies": [
+    {
+      "name": "C:\\Front End Journey\\forkify recreate projects\\package.json",
+      "includedInParent": true,
+      "mtime": 1734971507822
+    },
+    {
+      "name": "C:\\Front End Journey\\forkify recreate projects\\node_modules\\@fortawesome\\fontawesome-free\\package.json",
+      "includedInParent": true,
+      "mtime": 1734747706935
+    }
+  ],
+  "generated": {
+    "js": "module.exports = \"/2eed7198aa2091b4d5d5f0a8df86de32.ttf\";"
+  },
+  "sourceMaps": null,
+  "error": null,
+  "hash": "15d54d142da2f2d6f2e90ed1d55121af",
+  "cacheData": { "env": {} }
+}

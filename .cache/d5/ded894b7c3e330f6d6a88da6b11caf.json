@@ -1,0 +1,22 @@
+{
+  "id": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2",
+  "dependencies": [
+    {
+      "name": "C:\\Front End Journey\\forkify recreate projects\\package.json",
+      "includedInParent": true,
+      "mtime": 1734971507822
+    },
+    {
+      "name": "C:\\Front End Journey\\forkify recreate projects\\node_modules\\@fortawesome\\fontawesome-free\\package.json",
+      "includedInParent": true,
+      "mtime": 1734747706935
+    }
+  ],
+  "generated": {
+    "js": "module.exports = \"/3deac812e2780159384ed2cdda0e0451.woff2\";"
+  },
+  "sourceMaps": null,
+  "error": null,
+  "hash": "4a6591ab5460ae5cbff1ecbd6e52193a",
+  "cacheData": { "env": {} }
+}

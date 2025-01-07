@@ -1,0 +1,22 @@
+{
+  "id": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2",
+  "dependencies": [
+    {
+      "name": "C:\\Front End Journey\\forkify recreate projects\\package.json",
+      "includedInParent": true,
+      "mtime": 1734971507822
+    },
+    {
+      "name": "C:\\Front End Journey\\forkify recreate projects\\node_modules\\@fortawesome\\fontawesome-free\\package.json",
+      "includedInParent": true,
+      "mtime": 1734747706935
+    }
+  ],
+  "generated": {
+    "js": "module.exports = \"/6877acfc7edd59fa53267fc655e3a19d.woff2\";"
+  },
+  "sourceMaps": null,
+  "error": null,
+  "hash": "a772da7bff216cd36214bc44165bba3e",
+  "cacheData": { "env": {} }
+}
