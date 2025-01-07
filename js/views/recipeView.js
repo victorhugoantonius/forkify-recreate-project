@@ -1,4 +1,4 @@
-import Fracty from "fracty";
+import Fracty from "./fracty";
 import View from "./View.js";
 class RecipeView extends View {
   _parentElement = document.querySelector(".recipe-container");
