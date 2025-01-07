@@ -117,6 +117,11 @@ const controlAddRecipe = async (newRecipeData) => {
   }
 };
 
+//test branch new-feature
+const newFeature = () => {
+  console.log("Welcome to the app");
+};
+
 //publisher subscriber
 const init = () => {
   recipeView.addHandlerRender(showRecipe);
@@ -137,6 +142,8 @@ const init = () => {
 
   //add recipe
   addRecipeView.addHandlerUpload(controlAddRecipe);
+  //test
+  newFeature();
 };
 
 init();
